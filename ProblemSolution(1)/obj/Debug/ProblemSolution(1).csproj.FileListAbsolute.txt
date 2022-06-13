@@ -1,0 +1,8 @@
+D:\C#\ProblemSolution(1)\ProblemSolution(1)\bin\Debug\ProblemSolution(1).exe.config
+D:\C#\ProblemSolution(1)\ProblemSolution(1)\bin\Debug\ProblemSolution(1).exe
+D:\C#\ProblemSolution(1)\ProblemSolution(1)\bin\Debug\ProblemSolution(1).pdb
+D:\C#\ProblemSolution(1)\ProblemSolution(1)\obj\Debug\ProblemSolution(1).csproj.AssemblyReference.cache
+D:\C#\ProblemSolution(1)\ProblemSolution(1)\obj\Debug\ProblemSolution(1).csproj.SuggestedBindingRedirects.cache
+D:\C#\ProblemSolution(1)\ProblemSolution(1)\obj\Debug\ProblemSolution(1).csproj.CoreCompileInputs.cache
+D:\C#\ProblemSolution(1)\ProblemSolution(1)\obj\Debug\ProblemSolution(1).exe
+D:\C#\ProblemSolution(1)\ProblemSolution(1)\obj\Debug\ProblemSolution(1).pdb
